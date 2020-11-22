@@ -20,7 +20,7 @@
     android:title="@string/service_settings_title">
 
     <SwitchPreference
-        android:defaultValue="true"
+        android:defaultValue="false"
         android:key="enable"
         android:title="@string/enable_title"
         android:persistent="false" />

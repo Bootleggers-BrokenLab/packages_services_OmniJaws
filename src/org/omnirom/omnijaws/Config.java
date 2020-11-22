@@ -177,7 +177,7 @@ public class Config {
         SharedPreferences prefs = PreferenceManager
                 .getDefaultSharedPreferences(context);
 
-        return prefs.getBoolean(PREF_KEY_ENABLE, true);
+        return prefs.getBoolean(PREF_KEY_ENABLE, false);
     }
 
     public static boolean setEnabled(Context context, boolean value) {
