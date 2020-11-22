@@ -59,6 +59,8 @@ public class Config {
                 return new ForecaProvider(context);
             case "9":
                 return new MsnWeatherProvider(context);
+            case "10":
+                return new WeatherClientProvider(context);
             case "0":
             default:
                 return new OpenWeatherMapProvider(context);
