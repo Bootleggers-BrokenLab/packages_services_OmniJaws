@@ -56,4 +56,5 @@
     <string name="weather_config_title">Impostazioni servizio</string>
     <string name="with_forecast_title">Previsioni e dettagli per 4 giorni</string>
     <string name="omnijaws_city_unkown">Sconosciuta</string>
+    <string name="omnijaws_city_unknown">Sconosciuta</string>
 </resources>

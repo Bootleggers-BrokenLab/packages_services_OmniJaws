@@ -56,4 +56,5 @@
     <string name="weather_config_title">Szolgáltatás beállítások</string>
     <string name="with_forecast_title">4 napos részletes előrejelzéssel</string>
     <string name="omnijaws_city_unkown">Ismeretlen</string>
+    <string name="omnijaws_city_unknown">Ismeretlen</string>
 </resources>

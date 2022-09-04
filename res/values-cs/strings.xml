@@ -28,6 +28,7 @@
     <string name="weather_retrieve_location_dialog_message">Zjištění polohy podle sítě je vypnuto.\n\nNastavte vlastní polohu nebo povolte zjištění polohy</string>
     <string name="weather_retrieve_location_dialog_enable_button">Zapnout</string>
     <string name="settings_title">Nastavení</string>
+    <string name="service_settings_title">Služba počasí</string>
     <string name="auto_update_title">Automatická aktualizace</string>
     <string name="unit_metric">Metrické (\u00b0C)</string>
     <string name="unit_imperial">Imperiální (\u00b0F)</string>
@@ -56,4 +57,5 @@
     <string name="weather_config_title">Nastavení služby</string>
     <string name="with_forecast_title">Se 4 denní předpovědí a podrobnostmi</string>
     <string name="omnijaws_city_unkown">Neznámé</string>
+    <string name="omnijaws_city_unknown">Neznámé</string>
 </resources>

@@ -28,6 +28,7 @@
     <string name="weather_retrieve_location_dialog_message">Ağ konumu devre dışı.\n\nÖzel bir konum ayarlayın veya ağ konumunu etkinleştirin</string>
     <string name="weather_retrieve_location_dialog_enable_button">Etkinleştir</string>
     <string name="settings_title">Ayarlar</string>
+    <string name="service_settings_title">Hava durumu servisi</string>
     <string name="auto_update_title">Otomatik güncellemeler</string>
     <string name="unit_metric">Metrik (\u00b0C)</string>
     <string name="unit_imperial">Fahrenhayt (\u00b0F)</string>
@@ -56,4 +57,5 @@
     <string name="weather_config_title">Servis ayarları</string>
     <string name="with_forecast_title">4 günlük hava durumu ve detayları</string>
     <string name="omnijaws_city_unkown">Bilinmiyor</string>
+    <string name="omnijaws_city_unknown">Bilinmiyor</string>
 </resources>

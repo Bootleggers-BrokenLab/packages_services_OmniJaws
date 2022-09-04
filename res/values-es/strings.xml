@@ -28,6 +28,7 @@
     <string name="weather_retrieve_location_dialog_message">Geolocalización de la red está inhabilitado.\n\n Fijar una ubicación personalizada o habilitar la ubicación de red</string>
     <string name="weather_retrieve_location_dialog_enable_button">Habilitar</string>
     <string name="settings_title">Ajustes</string>
+    <string name="service_settings_title">Servicio meteorológico</string>
     <string name="auto_update_title">Actualizaciones automáticas</string>
     <string name="unit_metric">Métrico (\u00b0C)</string>
     <string name="unit_imperial">Imperial (\u00b0F)</string>
@@ -56,4 +57,5 @@
     <string name="weather_config_title">Ajustes del servicio</string>
     <string name="with_forecast_title">Con pronóstico de 4 días y detalles</string>
     <string name="omnijaws_city_unkown">Desconocido</string>
+    <string name="omnijaws_city_unknown">Desconocido</string>
 </resources>

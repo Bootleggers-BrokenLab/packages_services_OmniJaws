@@ -56,4 +56,5 @@
     <string name="weather_config_title">Service-instellingen</string>
     <string name="with_forecast_title">Met 4-daagse verwachting en details</string>
     <string name="omnijaws_city_unkown">Onbekend</string>
+    <string name="omnijaws_city_unknown">Onbekend</string>
 </resources>

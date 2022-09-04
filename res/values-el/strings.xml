@@ -56,4 +56,5 @@
     <string name="weather_config_title">Ρυθμίσεις υπηρεσίας</string>
     <string name="with_forecast_title">Με πρόγνωση 4 ημερών με λεπτομέρειες</string>
     <string name="omnijaws_city_unkown">Άγνωστο</string>
+    <string name="omnijaws_city_unknown">Άγνωστο</string>
 </resources>

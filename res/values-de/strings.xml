@@ -28,6 +28,7 @@
     <string name="weather_retrieve_location_dialog_message">Netzgebundene Positionsermittlung ist deaktiviert.\n\nLegen Sie eine benutzerdefinierte Position fest oder aktivieren Sie die netzgebundene Positionsermittlung</string>
     <string name="weather_retrieve_location_dialog_enable_button">Einschalten</string>
     <string name="settings_title">Einstellungen</string>
+    <string name="service_settings_title">Wetterdienst</string>
     <string name="auto_update_title">Automatische Aktualisierungen</string>
     <string name="unit_metric">Metrisch (\u00b0C)</string>
     <string name="unit_imperial">Imperial (\u00b0F)</string>
@@ -56,4 +57,5 @@
     <string name="weather_config_title">Diensteinstellungen</string>
     <string name="with_forecast_title">Mit 4-Tage-Prognose und Details</string>
     <string name="omnijaws_city_unkown">Unbekannt</string>
+    <string name="omnijaws_city_unknown">Unbekannt</string>
 </resources>

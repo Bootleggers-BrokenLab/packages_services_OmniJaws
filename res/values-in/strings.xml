@@ -28,6 +28,7 @@
     <string name="weather_retrieve_location_dialog_message">Geolokasi jaringan dinonaktifkan.\n\nTetapkan lokasi khusus atau aktifkan lokasi jaringan</string>
     <string name="weather_retrieve_location_dialog_enable_button">Aktifkan</string>
     <string name="settings_title">Setelan</string>
+    <string name="service_settings_title">Layanan cuaca</string>
     <string name="auto_update_title">Pembaruan otomatis</string>
     <string name="unit_metric">Metrik (\u00b0C)</string>
     <string name="unit_imperial">Imperial (\u00b0F)</string>
@@ -56,4 +57,5 @@
     <string name="weather_config_title">Setelan layanan</string>
     <string name="with_forecast_title">Dengan perkiraan dan rincian 4-hari</string>
     <string name="omnijaws_city_unkown">Tak diketahui</string>
+    <string name="omnijaws_city_unknown">Tak diketahui</string>
 </resources>

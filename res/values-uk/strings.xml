@@ -54,5 +54,7 @@
     <string name="omnijaws_current_text">Зараз</string>
     <string name="show_background_title">Фонова тінь</string>
     <string name="weather_config_title">Параметри служби</string>
+    <string name="with_forecast_title">З 4-денним прогнозом та деталями</string>
     <string name="omnijaws_city_unkown">Невідомо</string>
+    <string name="omnijaws_city_unknown">Невідомо</string>
 </resources>
