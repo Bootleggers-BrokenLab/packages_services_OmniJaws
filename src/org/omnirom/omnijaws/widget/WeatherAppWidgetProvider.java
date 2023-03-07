@@ -230,7 +230,7 @@ public class WeatherAppWidgetProvider extends AppWidgetProvider {
             widget.setViewVisibility(R.id.current_weather_city, View.INVISIBLE);
             widget.setViewVisibility(R.id.current_weather_timestamp, View.INVISIBLE);
             widget.setViewVisibility(R.id.current_weather_data, View.GONE);
-            widget.setTextViewText(R.id.no_weather_notice, context.getResources().getString(R.string.omnijaws_service_unkown));
+            widget.setTextViewText(R.id.no_weather_notice, context.getResources().getString(R.string.omnijaws_service_unknown));
             widget.setViewVisibility(R.id.no_weather_notice, View.VISIBLE);
             appWidgetManager.partiallyUpdateAppWidget(appWidgetId, widget);
             return;

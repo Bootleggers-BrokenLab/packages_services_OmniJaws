@@ -46,7 +46,7 @@
     <string name="service_disabled">Devre dışı</string>
     <string name="service_error">Hata</string>
     <string name="last_update_time">Son güncelleme tarihi</string>
-    <string name="omnijaws_service_unkown">Hava durumu verileri yok</string>
+    <string name="omnijaws_service_unknown">Hava durumu verileri yok</string>
     <string name="omnijaws_service_error">Hava durumu verisi yüklenemedi</string>
     <string name="omnijaws_service_init">Bekleniyor...</string>
     <string name="omnijaws_service_progress">Güncelleniyor...</string>
@@ -56,6 +56,5 @@
     <string name="show_background_title">Arkaplan gölgesi</string>
     <string name="weather_config_title">Servis ayarları</string>
     <string name="with_forecast_title">4 günlük hava durumu ve detayları</string>
-    <string name="omnijaws_city_unkown">Bilinmiyor</string>
     <string name="omnijaws_city_unknown">Bilinmiyor</string>
 </resources>

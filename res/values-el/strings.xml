@@ -45,7 +45,7 @@
     <string name="service_disabled">Ανενεργό</string>
     <string name="service_error">Σφάλμα</string>
     <string name="last_update_time">Ημερομηνία Τελευταίας Ενημέρωσης</string>
-    <string name="omnijaws_service_unkown">Δεν υπάρχουν δεδομένα καιρού</string>
+    <string name="omnijaws_service_unknown">Δεν υπάρχουν δεδομένα καιρού</string>
     <string name="omnijaws_service_error">Σφάλμα κατά τη φόρτωση δεδομένων καιρού</string>
     <string name="omnijaws_service_init">Αναμονή για δεδομένα καιρού...</string>
     <string name="omnijaws_service_progress">Ενημέρωση...</string>
@@ -55,6 +55,5 @@
     <string name="show_background_title">Σκιά βάθους</string>
     <string name="weather_config_title">Ρυθμίσεις υπηρεσίας</string>
     <string name="with_forecast_title">Με πρόγνωση 4 ημερών με λεπτομέρειες</string>
-    <string name="omnijaws_city_unkown">Άγνωστο</string>
     <string name="omnijaws_city_unknown">Άγνωστο</string>
 </resources>

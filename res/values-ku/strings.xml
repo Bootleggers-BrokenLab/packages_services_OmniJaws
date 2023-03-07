@@ -45,7 +45,7 @@
     <string name="service_disabled">لەکارخراو</string>
     <string name="service_error">هه‌ڵه‌</string>
     <string name="last_update_time">کاتی کۆتا نوێکردنەوە</string>
-    <string name="omnijaws_service_unkown">زانیاری کەش نییە</string>
+    <string name="omnijaws_service_unknown">زانیاری کەش نییە</string>
     <string name="omnijaws_service_error">کێشە لە بارکردنی داتای کەش</string>
     <string name="omnijaws_service_init">چاوەڕێکە...</string>
     <string name="omnijaws_service_progress">نوێدەکرێتەوە...</string>
@@ -55,6 +55,5 @@
     <string name="show_background_title">سێبەری پاشبنەما</string>
     <string name="weather_config_title">ڕێکخستنی خزمەتگوزاری</string>
     <string name="with_forecast_title">لەگەڵ 4-ڕۆژ پێشبینی و ووردەکاری</string>
-    <string name="omnijaws_city_unkown">نەزانراو</string>
     <string name="omnijaws_city_unknown">نەزانراو</string>
 </resources>

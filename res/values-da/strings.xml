@@ -45,7 +45,7 @@
     <string name="service_disabled">Deaktiveret</string>
     <string name="service_error">Fejl</string>
     <string name="last_update_time">Sidste opdateringstid</string>
-    <string name="omnijaws_service_unkown">Ingen vejrdata</string>
+    <string name="omnijaws_service_unknown">Ingen vejrdata</string>
     <string name="omnijaws_service_error">Fejl ved indlæsning af vejrdata</string>
     <string name="omnijaws_service_init">Venter...</string>
     <string name="omnijaws_service_progress">Opdaterer...</string>
@@ -55,6 +55,5 @@
     <string name="show_background_title">Baggrundsskygge</string>
     <string name="weather_config_title">Tjeneste-indstillinger</string>
     <string name="with_forecast_title">Med 4-dages udsigt og detaljer</string>
-    <string name="omnijaws_city_unkown">Ukendt</string>
     <string name="omnijaws_city_unknown">Ukendt</string>
 </resources>

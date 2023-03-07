@@ -46,7 +46,7 @@
   <string name="service_disabled">Deaktivdir</string>
   <string name="service_error">Xəta</string>
   <string name="last_update_time">Son yeniləmə vaxtı</string>
-  <string name="omnijaws_service_unkown">Hava məlumatı yoxdur</string>
+  <string name="omnijaws_service_unknown">Hava məlumatı yoxdur</string>
   <string name="omnijaws_service_error">Hava məlumatı yüklənərkən problem yarandı</string>
   <string name="omnijaws_service_init">Hava məlumatı üçün gözlənilir...</string>
   <string name="omnijaws_service_progress">Yenilənir...</string>

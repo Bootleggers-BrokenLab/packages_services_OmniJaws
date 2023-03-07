@@ -45,7 +45,7 @@
     <string name="service_disabled">Вимкнено</string>
     <string name="service_error">Помилка</string>
     <string name="last_update_time">Останнє оновлення</string>
-    <string name="omnijaws_service_unkown">Немає даних про погоду</string>
+    <string name="omnijaws_service_unknown">Немає даних про погоду</string>
     <string name="omnijaws_service_error">Помилка завантаження даних про погоду</string>
     <string name="omnijaws_service_init">Очікування погодних даних...</string>
     <string name="omnijaws_service_progress">Оновлення...</string>
@@ -55,6 +55,5 @@
     <string name="show_background_title">Фонова тінь</string>
     <string name="weather_config_title">Параметри служби</string>
     <string name="with_forecast_title">З 4-денним прогнозом та деталями</string>
-    <string name="omnijaws_city_unkown">Невідомо</string>
     <string name="omnijaws_city_unknown">Невідомо</string>
 </resources>

@@ -45,7 +45,7 @@
     <string name="service_disabled">معطل</string>
     <string name="service_error">خطأ</string>
     <string name="last_update_time">وقت آخر تحديث</string>
-    <string name="omnijaws_service_unkown">لا توجد بيانات الطقس</string>
+    <string name="omnijaws_service_unknown">لا توجد بيانات الطقس</string>
     <string name="omnijaws_service_error">خطأ في تحميل بيانات الطقس</string>
     <string name="omnijaws_service_init">انتظار...</string>
     <string name="omnijaws_service_progress">تحديث...</string>

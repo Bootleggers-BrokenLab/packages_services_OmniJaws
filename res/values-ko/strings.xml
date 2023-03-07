@@ -45,7 +45,7 @@
     <string name="service_disabled">사용 안 함</string>
     <string name="service_error">오류</string>
     <string name="last_update_time">마지막 업데이트 시간</string>
-    <string name="omnijaws_service_unkown">날씨 데이터 없음</string>
+    <string name="omnijaws_service_unknown">날씨 데이터 없음</string>
     <string name="omnijaws_service_error">날씨 데이터를 불러올 수 없음</string>
     <string name="omnijaws_service_init">날씨 데이터 기다리는 중...</string>
     <string name="omnijaws_service_progress">업데이트 중...</string>
@@ -55,6 +55,5 @@
     <string name="show_background_title">배경 그림자</string>
     <string name="weather_config_title">서비스 설정</string>
     <string name="with_forecast_title">4일 예측 및 세부 정보 포함</string>
-    <string name="omnijaws_city_unkown">알 수 없음</string>
     <string name="omnijaws_city_unknown">알 수 없음</string>
 </resources>
